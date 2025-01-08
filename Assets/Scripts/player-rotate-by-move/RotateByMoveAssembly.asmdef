@@ -1,0 +1,16 @@
+{
+    "name": "RotateByMoveAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6cfd96526cdfec645b14512eb7f6ead0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

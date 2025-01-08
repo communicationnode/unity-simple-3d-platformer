@@ -1,11 +1,13 @@
-# Simple 3D platformer
+<h1 align="center"> Simple 3D platformer </h1>
+  
 ```Created in Unity version: 6000.0.24f1;```<br>
 
 ![prewiew](_git_readme/gif_title.gif) 
 
 -----------------------
 
-# Controls:
+<h1 align="center"> Controls: </h1>
+
 ```
 A,D - left\right moving;
 SPACEBAR - jump;
@@ -13,7 +15,8 @@ CTRL, C - crouch;
 LEFT SHIFT - dash;
 ```
 -----------------------
-# External assets:
+<h1 align="center"> External assets: </h1>
+
 ```
 BOXOPHOBIC                   -> simple fog; 
 AstarPathfindingProject      -> not used in the demo project
@@ -23,7 +26,8 @@ RealToon                     -> anime shaders;
 Ropofoo - Foot Controller IK -> for foot inverse kinematics;
 ```
 -----------------------
-# Player movement main scripts:
+<h1 align="center"> Player movement main scripts: </h1>
+
 ```
 |main core|
   1) PlatformerCharacterController.cs  -> The main core of player movement. This is the movement state machine. It contains the basic movement states, and methods for controlling and switching between them.
@@ -35,3 +39,7 @@ Ropofoo - Foot Controller IK -> for foot inverse kinematics;
   3) FlyMovementState.cs         -> Debug movement state that fly;
   4) GrabStepMovementState.cs    -> Grab the edges of the surface. The player can jump or climb;
 ```
+How it looks in inspector: <br>
+![prewiew](_git_readme/platformerComponent.png) <br> 
+![prewiew](_git_readme/platformerFolder.png) <br>
+![prewiew](_git_readme/statesFolder.png) <br>

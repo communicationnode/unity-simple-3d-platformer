@@ -1,5 +1,9 @@
 <h1 align="center"> Simple 3D platformer </h1>
-  
+
+![GitHub top language](https://img.shields.io/github/languages/top/communicationnode/unity-simple-3d-platformer)
+![GitHub](https://img.shields.io/github/license/communicationnode/unity-simple-3d-platformer)
+![GitHub Repo stars](https://img.shields.io/github/stars/communicationnode/unity-simple-3d-platformer)
+
 ```Created in Unity version: 6000.0.24f1;```<br>
 
 ![prewiew](_git_readme/gif_title.gif) 

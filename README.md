@@ -1,5 +1,6 @@
 <h1 align="center"> Simple 3D platformer </h1>
 
+![Static Badge](https://img.shields.io/badge/communicationnode-communicationnode)
 ![GitHub top language](https://img.shields.io/github/languages/top/communicationnode/unity-simple-3d-platformer)
 ![GitHub](https://img.shields.io/github/license/communicationnode/unity-simple-3d-platformer)
 ![GitHub Repo stars](https://img.shields.io/github/stars/communicationnode/unity-simple-3d-platformer)

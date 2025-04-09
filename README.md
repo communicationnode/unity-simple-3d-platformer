@@ -7,7 +7,11 @@
 
 ```Created in Unity version: 6000.0.24f1;```<br>
 
-![prewiew](_git_readme/gif_title.gif) 
+>[!NOTE]
+>
+>![ico](_git_readme/ico.png)This template project is published specifically to get you started with game projects. 
+
+<div align="center"> <img src="_git_readme/gif_title.gif" alt="prewiew"/> </div> 
 
 -----------------------
 

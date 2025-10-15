@@ -11,7 +11,7 @@
 >
 >![ico](_git_readme/ico.png)This template project is published specifically to get you started with game projects. 
 
-<div align="center"> <img src="_git_readme/gif_title.gif" alt="prewiew"/> </div> 
+<div align="center"> <img src="_git_readme/gif_title.gif" width="800" alt="prewiew"/> </div> 
 
 -----------------------
 
